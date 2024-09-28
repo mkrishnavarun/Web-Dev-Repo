@@ -1,0 +1,19 @@
+body{
+background-color:#945858;
+}
+div{
+color:white;
+text-align: center;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+h1{
+font-family: "Times New Roman", Times, serif;
+text-transform: uppercase;
+}
+
+.motivation-img{
+border: 5px solid white;
+}
